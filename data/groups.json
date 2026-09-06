@@ -1,510 +1,510 @@
 [
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-1",
-    "title": "Financial Independence Retire Early Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-1",
+    "id": "fire-reddit-financialindependence",
+    "title": "r/financialindependence - The Core FIRE Community",
+    "platform": "Reddit",
+    "category": "Financial Independence",
+    "memberCount": "2,150,000+ members",
+    "description": "The premier global forum for discussing financial independence, safe withdrawal rates, savings maximization, and early retirement journeys.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
     "tags": [
-      "financial-independence-retire-early",
-      "telegram",
-      "networking",
-      "verified"
+      "financial-independence",
+      "fire",
+      "investing",
+      "retirement"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-discord-2",
-    "title": "Index Funds Global Discord Hub",
-    "platform": "Discord",
-    "category": "Index Funds",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-2",
+    "id": "fire-reddit-personalfinance",
+    "title": "r/personalfinance - Wealth Building & Budgeting",
+    "platform": "Reddit",
+    "category": "Personal Finance",
+    "memberCount": "18,500,000+ members",
+    "description": "The authoritative personal finance forum offering step-by-step financial roadmaps, debt payoff strategies, budgeting, and retirement guidance.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
     "tags": [
-      "index-funds",
-      "discord",
-      "networking",
-      "verified"
+      "personal-finance",
+      "budgeting",
+      "wealth-building",
+      "savings"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-3",
-    "title": "Frugal Living Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Frugal Living",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-3",
+    "id": "fire-reddit-bogleheads",
+    "title": "r/Bogleheads - Passive Index Fund Investing",
+    "platform": "Reddit",
+    "category": "Index Funds",
+    "memberCount": "510,000+ members",
+    "description": "Dedicated to Jack Bogle low-cost passive index investment philosophy, three-fund portfolios, and disciplined buy-and-hold wealth accumulation.",
+    "joinUrl": "https://www.reddit.com/r/Bogleheads/",
     "tags": [
-      "frugal-living",
-      "whatsapp",
-      "networking",
-      "verified"
+      "bogleheads",
+      "index-funds",
+      "passive-investing",
+      "vanguard"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-reddit-4",
-    "title": "Financial Independence Retire Early Global Reddit Hub",
+    "id": "fire-reddit-leanfire",
+    "title": "r/leanfire - Frugal Early Retirement",
     "platform": "Reddit",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-4",
+    "category": "Lean FIRE",
+    "memberCount": "320,000+ members",
+    "description": "A focused community for those pursuing financial independence with minimal lifestyle expenses, sub- annual spends, and frugal living.",
+    "joinUrl": "https://www.reddit.com/r/leanfire/",
     "tags": [
-      "financial-independence-retire-early",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-telegram-5",
-    "title": "Index Funds Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Index Funds",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-5",
-    "tags": [
-      "index-funds",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-discord-6",
-    "title": "Frugal Living Global Discord Hub",
-    "platform": "Discord",
-    "category": "Frugal Living",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-6",
-    "tags": [
+      "leanfire",
       "frugal-living",
-      "discord",
-      "networking",
-      "verified"
+      "minimalism",
+      "early-retirement"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-7",
-    "title": "Financial Independence Retire Early Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-7",
-    "tags": [
-      "financial-independence-retire-early",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-reddit-8",
-    "title": "Index Funds Global Reddit Hub",
+    "id": "fire-reddit-fatfire",
+    "title": "r/fatFIRE - High Net Worth Retirement",
     "platform": "Reddit",
-    "category": "Index Funds",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-8",
+    "category": "Fat FIRE",
+    "memberCount": "480,000+ members",
+    "description": "Discussions for high-earning and high-net-worth individuals targeting + portfolios, lifestyle preservation, estate planning, and tax optimization.",
+    "joinUrl": "https://www.reddit.com/r/fatFIRE/",
     "tags": [
-      "index-funds",
-      "reddit",
-      "networking",
-      "verified"
+      "fatfire",
+      "high-net-worth",
+      "wealth-preservation",
+      "investing"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-9",
-    "title": "Frugal Living Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Frugal Living",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-9",
+    "id": "fire-reddit-fireyfemmes",
+    "title": "r/FIREyFemmes - Women & Non-Binary FIRE Community",
+    "platform": "Reddit",
+    "category": "Women in FIRE",
+    "memberCount": "65,000+ members",
+    "description": "An empowering, supportive space for women and non-binary people focusing on career growth, salary negotiation, and financial autonomy.",
+    "joinUrl": "https://www.reddit.com/r/FIREyFemmes/",
     "tags": [
-      "frugal-living",
-      "telegram",
-      "networking",
-      "verified"
+      "fireyfemmes",
+      "women-in-finance",
+      "financial-independence",
+      "career"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-discord-10",
-    "title": "Financial Independence Retire Early Global Discord Hub",
-    "platform": "Discord",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-10",
+    "id": "fire-reddit-chubbyfire",
+    "title": "r/ChubbyFIRE - Upper-Middle Wealth (.5M-)",
+    "platform": "Reddit",
+    "category": "Chubby FIRE",
+    "memberCount": "95,000+ members",
+    "description": "Designed for people targeting comfortable retirement assets between .5M and , balancing reasonable spending with strong safety margins.",
+    "joinUrl": "https://www.reddit.com/r/ChubbyFIRE/",
     "tags": [
-      "financial-independence-retire-early",
-      "discord",
-      "networking",
-      "verified"
+      "chubbyfire",
+      "retirement-planning",
+      "portfolio-management",
+      "wealth"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-11",
-    "title": "Index Funds Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Index Funds",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-11",
+    "id": "fire-reddit-coastfire",
+    "title": "r/CoastFIRE - Compounding Momentum & Flexibility",
+    "platform": "Reddit",
+    "category": "Coast FIRE",
+    "memberCount": "130,000+ members",
+    "description": "Community for savers who frontload investments until compound growth covers retirement, freeing them to pursue lower-stress careers.",
+    "joinUrl": "https://www.reddit.com/r/CoastFIRE/",
     "tags": [
-      "index-funds",
-      "whatsapp",
-      "networking",
-      "verified"
+      "coastfire",
+      "compound-growth",
+      "work-life-balance",
+      "career-pivot"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-reddit-12",
-    "title": "Frugal Living Global Reddit Hub",
+    "id": "fire-reddit-baristafire",
+    "title": "r/BaristaFIRE - Semi-Retirement & Supplemental Work",
+    "platform": "Reddit",
+    "category": "Barista FIRE",
+    "memberCount": "80,000+ members",
+    "description": "Strategies for semi-retiring early while holding enjoyable part-time or seasonal roles for healthcare benefits and supplemental income.",
+    "joinUrl": "https://www.reddit.com/r/BaristaFIRE/",
+    "tags": [
+      "baristafire",
+      "semi-retirement",
+      "healthcare-benefits",
+      "lifestyle"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-reddit-povertyfinance",
+    "title": "r/PovertyFinance - Upward Financial Mobility",
+    "platform": "Reddit",
+    "category": "Financial Foundations",
+    "memberCount": "2,400,000+ members",
+    "description": "Actionable financial advice, credit score rehabilitation, emergency fund guidance, and debt eradication for building wealth from scratch.",
+    "joinUrl": "https://www.reddit.com/r/PovertyFinance/",
+    "tags": [
+      "povertyfinance",
+      "debt-free",
+      "financial-literacy",
+      "emergency-fund"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-reddit-frugal",
+    "title": "r/frugal - Waste Reduction & Value Optimization",
     "platform": "Reddit",
     "category": "Frugal Living",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-12",
+    "memberCount": "3,200,000+ members",
+    "description": "Everyday strategies for minimizing wasteful expenditures, DIY repairs, energy savings, and maximizing purchasing power to boost savings rates.",
+    "joinUrl": "https://www.reddit.com/r/frugal/",
     "tags": [
-      "frugal-living",
-      "reddit",
-      "networking",
-      "verified"
+      "frugal",
+      "smart-spending",
+      "cost-cutting",
+      "savings-rate"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-13",
-    "title": "Financial Independence Retire Early Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-13",
-    "tags": [
-      "financial-independence-retire-early",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-discord-14",
-    "title": "Index Funds Global Discord Hub",
-    "platform": "Discord",
-    "category": "Index Funds",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-14",
-    "tags": [
-      "index-funds",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-15",
-    "title": "Frugal Living Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Frugal Living",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-15",
-    "tags": [
-      "frugal-living",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-reddit-16",
-    "title": "Financial Independence Retire Early Global Reddit Hub",
+    "id": "fire-reddit-fireuk",
+    "title": "r/FIREUK - British Financial Independence",
     "platform": "Reddit",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-16",
+    "category": "UK FIRE",
+    "memberCount": "230,000+ members",
+    "description": "British financial independence forum covering Stocks & Shares ISAs, SIPPs, pension allowances, and UK tax-advantaged retirement planning.",
+    "joinUrl": "https://www.reddit.com/r/FIREUK/",
     "tags": [
-      "financial-independence-retire-early",
-      "reddit",
-      "networking",
-      "verified"
+      "fireuk",
+      "isa",
+      "sipp",
+      "uk-finance"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-17",
-    "title": "Index Funds Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Index Funds",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-17",
+    "id": "fire-reddit-fiaustralia",
+    "title": "r/fiaustralia - Australian FIRE Community",
+    "platform": "Reddit",
+    "category": "Australia FIRE",
+    "memberCount": "180,000+ members",
+    "description": "Australian financial independence community exploring Superannuation, franking credits, ASX index funds, and local property strategies.",
+    "joinUrl": "https://www.reddit.com/r/fiaustralia/",
     "tags": [
-      "index-funds",
-      "telegram",
-      "networking",
-      "verified"
+      "fiaustralia",
+      "superannuation",
+      "asx",
+      "aussie-fire"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-discord-18",
-    "title": "Frugal Living Global Discord Hub",
-    "platform": "Discord",
-    "category": "Frugal Living",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-18",
+    "id": "fire-reddit-eupersonalfinance",
+    "title": "r/eupersonalfinance - European Wealth Building",
+    "platform": "Reddit",
+    "category": "European FIRE",
+    "memberCount": "410,000+ members",
+    "description": "Cross-border discussions on European UCITS ETFs, double taxation agreements, pillar pensions, and FIRE strategies across the EU.",
+    "joinUrl": "https://www.reddit.com/r/eupersonalfinance/",
     "tags": [
-      "frugal-living",
-      "discord",
-      "networking",
-      "verified"
+      "eupersonalfinance",
+      "ucits-etf",
+      "europe-investing",
+      "tax-efficiency"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-19",
-    "title": "Financial Independence Retire Early Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-19",
+    "id": "fire-reddit-fireind",
+    "title": "r/FIRE_Ind - Financial Independence India",
+    "platform": "Reddit",
+    "category": "India FIRE",
+    "memberCount": "110,000+ members",
+    "description": "Specialized discussions for Indian residents and NRIs on equity mutual funds, PPF/EPF, real estate, healthcare inflation, and early retirement in India.",
+    "joinUrl": "https://www.reddit.com/r/FIRE_Ind/",
     "tags": [
-      "financial-independence-retire-early",
-      "whatsapp",
-      "networking",
-      "verified"
+      "fire-india",
+      "mutual-funds",
+      "nri-finance",
+      "indian-markets"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-reddit-20",
-    "title": "Index Funds Global Reddit Hub",
+    "id": "fire-reddit-etfs",
+    "title": "r/ETFs - Exchange Traded Funds & Indexing",
     "platform": "Reddit",
     "category": "Index Funds",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-20",
+    "memberCount": "290,000+ members",
+    "description": "Deep dives into global equity ETFs, expense ratios, factor tilts, thematic sector funds, and building resilient passive index portfolios.",
+    "joinUrl": "https://www.reddit.com/r/ETFs/",
     "tags": [
-      "index-funds",
-      "reddit",
-      "networking",
-      "verified"
+      "etfs",
+      "passive-investing",
+      "asset-allocation",
+      "diversification"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-21",
-    "title": "Frugal Living Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Frugal Living",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-21",
-    "tags": [
-      "frugal-living",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-discord-22",
-    "title": "Financial Independence Retire Early Global Discord Hub",
-    "platform": "Discord",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-22",
-    "tags": [
-      "financial-independence-retire-early",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-23",
-    "title": "Index Funds Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Index Funds",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-23",
-    "tags": [
-      "index-funds",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-reddit-24",
-    "title": "Frugal Living Global Reddit Hub",
+    "id": "fire-reddit-middleclassfinance",
+    "title": "r/MiddleClassFinance - Pragmatic Family Wealth",
     "platform": "Reddit",
-    "category": "Frugal Living",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-24",
+    "category": "Personal Finance",
+    "memberCount": "140,000+ members",
+    "description": "Real-world personal finance discussions for middle-income earners managing mortgages, college funds, childcare, and retirement accounts.",
+    "joinUrl": "https://www.reddit.com/r/MiddleClassFinance/",
     "tags": [
-      "frugal-living",
-      "reddit",
-      "networking",
-      "verified"
+      "middle-class",
+      "family-finance",
+      "mortgage",
+      "retirement"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-25",
-    "title": "Financial Independence Retire Early Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-25",
-    "tags": [
-      "financial-independence-retire-early",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-discord-26",
-    "title": "Index Funds Global Discord Hub",
-    "platform": "Discord",
-    "category": "Index Funds",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-26",
-    "tags": [
-      "index-funds",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-whatsapp-27",
-    "title": "Frugal Living Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Frugal Living",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/fire-movement-&-wealth-building-hub-whatsapp-27",
-    "tags": [
-      "frugal-living",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-&-wealth-building-hub-reddit-28",
-    "title": "Financial Independence Retire Early Global Reddit Hub",
+    "id": "fire-reddit-fican",
+    "title": "r/fican - Canadian Financial Independence",
     "platform": "Reddit",
-    "category": "Financial Independence Retire Early",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on financial independence retire early discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/fire-movement-&-wealth-building-hub-reddit-28",
+    "category": "Canada FIRE",
+    "memberCount": "60,000+ members",
+    "description": "Canadian early retirement discussions focusing on TFSA and RRSP contribution room, CPP/OAS timing, and Canadian Couch Potato portfolios.",
+    "joinUrl": "https://www.reddit.com/r/fican/",
     "tags": [
-      "financial-independence-retire-early",
-      "reddit",
-      "networking",
-      "verified"
+      "fican",
+      "tfsa",
+      "rrsp",
+      "canadian-investing"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-telegram-29",
-    "title": "Index Funds Global Telegram Hub",
+    "id": "fire-reddit-investing",
+    "title": "r/investing - Core Investment Principles",
+    "platform": "Reddit",
+    "category": "Wealth Building",
+    "memberCount": "2,600,000+ members",
+    "description": "Reddit flagship market research and analysis community covering equities, fixed income, valuation frameworks, and macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "stocks",
+      "market-analysis",
+      "macroeconomics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-reddit-stocks",
+    "title": "r/stocks - Global Equities & Long-Term Compounding",
+    "platform": "Reddit",
+    "category": "Capital Growth",
+    "memberCount": "7,100,000+ members",
+    "description": "Active discussions on corporate quarterly earnings, fundamental analysis, individual equity selection, and compound capital growth.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "tags": [
+      "stocks",
+      "equities",
+      "earnings",
+      "capital-growth"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-discord-personalfinance",
+    "title": "Personal Finance Discord Community",
+    "platform": "Discord",
+    "category": "Personal Finance",
+    "memberCount": "45,000+ members",
+    "description": "Live real-time server with channels for 401(k) allocations, tax guidance, debt payoff milestones, and community spreadsheet reviews.",
+    "joinUrl": "https://discord.gg/personalfinance",
+    "tags": [
+      "discord",
+      "personal-finance",
+      "budgeting",
+      "real-time"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-discord-fire",
+    "title": "FIRE Movement Official Discord",
+    "platform": "Discord",
+    "category": "Financial Independence",
+    "memberCount": "28,000+ members",
+    "description": "Active community discussing withdrawal mathematics, Monte Carlo simulations, side hustle income, and early retirement progress tracking.",
+    "joinUrl": "https://discord.gg/fire",
+    "tags": [
+      "discord",
+      "fire-movement",
+      "financial-independence",
+      "retirement"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-discord-bogleheads",
+    "title": "Bogleheads Community Discord",
+    "platform": "Discord",
+    "category": "Index Funds",
+    "memberCount": "16,000+ members",
+    "description": "Real-time chat focused on passive indexing, three-fund portfolio rebalancing, low-fee brokerages, and tax-efficient asset location.",
+    "joinUrl": "https://discord.gg/bogleheads",
+    "tags": [
+      "discord",
+      "bogleheads",
+      "passive-indexing",
+      "vanguard"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-discord-investing",
+    "title": "The Investing Discord Server",
+    "platform": "Discord",
+    "category": "Investing",
+    "memberCount": "85,000+ members",
+    "description": "Comprehensive multi-channel discord server covering equity analysis, fixed income yields, economic data releases, and long-term holding.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "discord",
+      "investing",
+      "market-chat",
+      "finance-hub"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-discord-finance",
+    "title": "Global Finance & Capital Discord",
+    "platform": "Discord",
+    "category": "Wealth Building",
+    "memberCount": "35,000+ members",
+    "description": "Global financial community covering compound interest calculators, high-yield savings accounts, capital protection, and wealth mindset.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "discord",
+      "finance",
+      "wealth-building",
+      "capital"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-telegram-financialindependence",
+    "title": "Financial Independence Global Telegram",
+    "platform": "Telegram",
+    "category": "Financial Independence",
+    "memberCount": "19,000+ members",
+    "description": "Direct mobile updates featuring early retirement milestones, safe withdrawal research, expense tracking tips, and FIRE articles.",
+    "joinUrl": "https://t.me/financialindependence",
+    "tags": [
+      "telegram",
+      "financial-independence",
+      "fire",
+      "daily-tips"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-telegram-personalfinance",
+    "title": "Personal Finance Telegram Channel",
+    "platform": "Telegram",
+    "category": "Personal Finance",
+    "memberCount": "24,000+ members",
+    "description": "Daily broadcasts on interest rates, tax season deadlines, high-yield banking rates, and money-saving rules of thumb.",
+    "joinUrl": "https://t.me/personalfinance",
+    "tags": [
+      "telegram",
+      "personal-finance",
+      "budgeting",
+      "money-tips"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-telegram-bogleheads",
+    "title": "Bogleheads Passive Investors Telegram",
     "platform": "Telegram",
     "category": "Index Funds",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on index funds discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/fire-movement-&-wealth-building-hub-telegram-29",
+    "memberCount": "12,000+ members",
+    "description": "Telegram group for long-term index fund investors following the principles of broad diversification and ultra-low management expense ratios.",
+    "joinUrl": "https://t.me/bogleheads",
     "tags": [
-      "index-funds",
       "telegram",
-      "networking",
-      "verified"
+      "bogleheads",
+      "index-funds",
+      "passive-investing"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-&-wealth-building-hub-discord-30",
-    "title": "Frugal Living Global Discord Hub",
-    "platform": "Discord",
-    "category": "Frugal Living",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on frugal living discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/fire-movement-&-wealth-building-hub-discord-30",
+    "id": "fire-telegram-wealthbuilding",
+    "title": "Wealth Building Strategies Telegram",
+    "platform": "Telegram",
+    "category": "Wealth Building",
+    "memberCount": "15,000+ members",
+    "description": "Actionable breakdowns of long-term compounding, emergency liquidity tiers, asset allocation models, and net-worth growth strategies.",
+    "joinUrl": "https://t.me/wealthbuilding",
     "tags": [
-      "frugal-living",
-      "discord",
-      "networking",
-      "verified"
+      "telegram",
+      "wealth-building",
+      "compounding",
+      "asset-allocation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-telegram-passiveincome",
+    "title": "Passive Income & Financial Freedom Channel",
+    "platform": "Telegram",
+    "category": "Cashflow & FIRE",
+    "memberCount": "31,000+ members",
+    "description": "Daily alerts and educational guides on building recurring passive income streams to accelerate the path to financial independence.",
+    "joinUrl": "https://t.me/passiveincome",
+    "tags": [
+      "telegram",
+      "passive-income",
+      "financial-freedom",
+      "cashflow"
     ],
     "verified": true,
     "featured": false
