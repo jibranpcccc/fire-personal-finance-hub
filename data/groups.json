@@ -375,12 +375,12 @@
   },
   {
     "id": "fire-discord-bogleheads",
-    "title": "Bogleheads Community Discord",
-    "platform": "Discord",
+    "title": "r/Bogleheads Passive Indexing Guild",
+    "platform": "Reddit",
     "category": "Index Funds",
     "memberCount": "16,000+ members",
     "description": "Real-time chat focused on passive indexing, three-fund portfolio rebalancing, low-fee brokerages, and tax-efficient asset location.",
-    "joinUrl": "https://discord.gg/bogleheads",
+    "joinUrl": "https://www.reddit.com/r/Bogleheads/",
     "tags": [
       "discord",
       "bogleheads",
@@ -397,7 +397,7 @@
     "category": "Investing",
     "memberCount": "85,000+ members",
     "description": "Comprehensive multi-channel discord server covering equity analysis, fixed income yields, economic data releases, and long-term holding.",
-    "joinUrl": "https://discord.gg/investing",
+    "joinUrl": "https://www.reddit.com/r/investing/",
     "tags": [
       "discord",
       "investing",
@@ -414,7 +414,7 @@
     "category": "Wealth Building",
     "memberCount": "35,000+ members",
     "description": "Global financial community covering compound interest calculators, high-yield savings accounts, capital protection, and wealth mindset.",
-    "joinUrl": "https://discord.gg/finance",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
     "tags": [
       "discord",
       "finance",
