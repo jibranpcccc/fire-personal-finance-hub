@@ -1,5 +1,24 @@
 [
   {
+    "id": "fire-personal-finance-hub-reddit-20260913-1",
+    "title": "r/dividends Cash Flow Compounding",
+    "platform": "Reddit",
+    "category": "Dividend Growth",
+    "memberCount": "620,000+ members",
+    "description": "Building sustainable passive income through qualified dividend growth stocks, SCHD, and DRIP compounding.",
+    "joinUrl": "https://www.reddit.com/r/dividends/",
+    "tags": [
+      "dividends",
+      "passive-income",
+      "stocks",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "fire-reddit-financialindependence",
     "title": "r/financialindependence - The Core FIRE Community",
     "platform": "Reddit",
@@ -14,7 +33,8 @@
       "retirement"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-personalfinance",
@@ -31,7 +51,8 @@
       "savings"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-bogleheads",
@@ -48,7 +69,8 @@
       "vanguard"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-leanfire",
@@ -65,7 +87,8 @@
       "early-retirement"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-fatfire",
@@ -82,7 +105,8 @@
       "investing"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-fireyfemmes",
@@ -99,7 +123,8 @@
       "career"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-chubbyfire",
@@ -116,7 +141,8 @@
       "wealth"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-coastfire",
@@ -133,7 +159,8 @@
       "career-pivot"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-baristafire",
@@ -150,7 +177,8 @@
       "lifestyle"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-povertyfinance",
@@ -167,7 +195,8 @@
       "emergency-fund"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-frugal",
@@ -184,7 +213,8 @@
       "savings-rate"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-fireuk",
@@ -201,7 +231,8 @@
       "uk-finance"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-fiaustralia",
@@ -218,7 +249,8 @@
       "aussie-fire"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-eupersonalfinance",
@@ -235,7 +267,8 @@
       "tax-efficiency"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-fireind",
@@ -252,7 +285,8 @@
       "indian-markets"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-etfs",
@@ -269,7 +303,8 @@
       "diversification"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-middleclassfinance",
@@ -286,7 +321,8 @@
       "retirement"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-fican",
@@ -303,7 +339,8 @@
       "canadian-investing"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-investing",
@@ -320,7 +357,8 @@
       "macroeconomics"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-stocks",
@@ -337,7 +375,8 @@
       "capital-growth"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-discord-personalfinance",
@@ -354,7 +393,8 @@
       "real-time"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-discord-fire",
@@ -371,7 +411,8 @@
       "retirement"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-discord-bogleheads",
@@ -388,7 +429,8 @@
       "vanguard"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-discord-investing",
@@ -405,7 +447,8 @@
       "finance-hub"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-discord-finance",
@@ -422,7 +465,8 @@
       "capital"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-telegram-financialindependence",
@@ -439,7 +483,8 @@
       "daily-tips"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-telegram-personalfinance",
@@ -456,7 +501,8 @@
       "money-tips"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-telegram-bogleheads",
@@ -473,7 +519,8 @@
       "passive-investing"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-telegram-wealthbuilding",
@@ -490,7 +537,8 @@
       "asset-allocation"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "fire-telegram-passiveincome",
@@ -507,6 +555,7 @@
       "cashflow"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
