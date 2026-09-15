@@ -1,5 +1,23 @@
 [
   {
+    "id": "fire-personal-finance-hub-discord-20260915-1",
+    "title": "Dividends & Cashflow Discord",
+    "platform": "Discord",
+    "category": "Dividend Stocks",
+    "memberCount": "38,000+ members",
+    "description": "Discussion on dividend aristocrats, monthly income funds, and compounding dividend reinvestment.",
+    "joinUrl": "https://discord.gg/dividends",
+    "tags": [
+      "dividends",
+      "stocks",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "fire-personal-finance-hub-reddit-20260914-1",
     "title": "r/passive_income Automated Cashflow",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
