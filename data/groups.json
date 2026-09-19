@@ -1,5 +1,23 @@
 [
   {
+    "id": "fire-personal-finance-hub-discord-20260919-1",
+    "title": "Investing & Wealth Discord",
+    "platform": "Discord",
+    "category": "Equities & Macro",
+    "memberCount": "72,000+ members",
+    "description": "Macroeconomic market news, Federal Reserve rate decisions, and long-term asset allocation models.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "investing",
+      "wealth",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "fire-personal-finance-hub-discord-20260918-1",
     "title": "Bogleheads Investors Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {
