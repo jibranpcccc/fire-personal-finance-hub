@@ -1,5 +1,23 @@
 [
   {
+    "id": "fire-personal-finance-hub-discord-20260920-1",
+    "title": "Real Estate Investors Discord",
+    "platform": "Discord",
+    "category": "Property Investment",
+    "memberCount": "41,000+ members",
+    "description": "Underwriting residential multi-family units, BRRRR renovations, and tenant management workflows.",
+    "joinUrl": "https://discord.gg/realestate",
+    "tags": [
+      "realestate",
+      "properties",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "fire-personal-finance-hub-discord-20260919-1",
     "title": "Investing & Wealth Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
