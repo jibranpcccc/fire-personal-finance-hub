@@ -1,5 +1,23 @@
 [
   {
+    "id": "fire-personal-finance-hub-telegram-20260921-1",
+    "title": "Dividend Investors Telegram",
+    "platform": "Telegram",
+    "category": "Dividend News",
+    "memberCount": "29,000+ members",
+    "description": "Quarterly dividend increase announcements, ex-dividend date calendars, and yield rankings.",
+    "joinUrl": "https://t.me/dividendinvestors",
+    "tags": [
+      "dividends",
+      "yield",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-21"
+  },
+  {
     "id": "fire-personal-finance-hub-discord-20260920-1",
     "title": "Real Estate Investors Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-20"
   },
   {
