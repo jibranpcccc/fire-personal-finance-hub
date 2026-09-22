@@ -1,5 +1,23 @@
 [
   {
+    "id": "fire-personal-finance-hub-telegram-20260922-1",
+    "title": "Value Investing Hub Telegram",
+    "platform": "Telegram",
+    "category": "Fundamental Analysis",
+    "memberCount": "24,000+ members",
+    "description": "Annual report highlights, insider transaction filings, and margin-of-safety stock write-ups.",
+    "joinUrl": "https://t.me/valueinvesting",
+    "tags": [
+      "value",
+      "investing",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "fire-personal-finance-hub-telegram-20260921-1",
     "title": "Dividend Investors Telegram",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
