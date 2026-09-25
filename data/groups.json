@@ -1,5 +1,23 @@
 [
   {
+    "id": "fire-personal-finance-hub-forum-20260925-1",
+    "title": "BiggerPockets Real Estate Forum",
+    "platform": "Forum",
+    "category": "Real Estate Wealth",
+    "memberCount": "2,400,000+ members",
+    "description": "Real estate investing deal analysis, private money lending, short-term rental management, and tax loopholes.",
+    "joinUrl": "https://www.biggerpockets.com/forums",
+    "tags": [
+      "biggerpockets",
+      "realestate",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "fire-personal-finance-hub-forum-20260924-1",
     "title": "Early Retirement Forum",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
