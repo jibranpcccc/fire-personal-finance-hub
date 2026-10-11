@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Wealth Building Hub</title>
     <link>https://fire-personal-finance-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:00:35 GMT</lastBuildDate>
     <atom:link href="https://fire-personal-finance-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/programming International (Reddit)</title>
+      <link>https://www.reddit.com/r/programming/</link>
+      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:35 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Major international hub for computer programming discussions, industry insights, and software development trends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Python Developers Telegram Channel (Telegram)</title>
       <link>https://t.me/python_scripts</link>
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-telegram-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:30:05 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Building sustainable passive income through qualified dividend growth stocks, SCHD, and DRIP compounding.</description>
-    </item>
-<item>
-      <title>FIRE Movement &amp; Wealth Building Hub Initial Release</title>
-      <link>https://fire-personal-finance-hub.vercel.app/</link>
-      <pubDate>Sun, 06 Sep 2026 13:33:19 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
