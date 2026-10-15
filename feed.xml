@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Wealth Building Hub</title>
     <link>https://fire-personal-finance-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:38 GMT</lastBuildDate>
     <atom:link href="https://fire-personal-finance-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
+      <link>https://www.reddit.com/r/rust/</link>
+      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:38 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: The Programmer's Hangout (Discord)</title>
       <link>https://discord.gg/programming</link>
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-discord-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:06:53 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Warren Buffett &amp; Benjamin Graham value methodology, discounted cash flow (DCF), and margin of safety.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/realestateinvesting Cashflow Properties (Reddit)</title>
-      <link>https://www.reddit.com/r/realestateinvesting/</link>
-      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:02:29 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Rental property cap rates, cash-on-cash returns, 1031 tax deferrals, and passive syndications.</description>
     </item>
   </channel>
 </rss>
