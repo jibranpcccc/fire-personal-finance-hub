@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Wealth Building Hub</title>
     <link>https://fire-personal-finance-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:00:38 GMT</lastBuildDate>
     <atom:link href="https://fire-personal-finance-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
+      <link>https://discord.gg/golang</link>
+      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-discord-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:38 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
       <link>https://www.reddit.com/r/golang/</link>
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-telegram-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:00:32 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Annual report highlights, insider transaction filings, and margin-of-safety stock write-ups.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Dividend Investors Telegram (Telegram)</title>
-      <link>https://t.me/dividendinvestors</link>
-      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-telegram-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:00:32 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Quarterly dividend increase announcements, ex-dividend date calendars, and yield rankings.</description>
     </item>
   </channel>
 </rss>
