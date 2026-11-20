@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Wealth Building Hub</title>
     <link>https://fire-personal-finance-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:00:36 GMT</lastBuildDate>
     <atom:link href="https://fire-personal-finance-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/Bogleheads - Passive Index Fund Investing (Reddit)</title>
+      <link>https://www.reddit.com/r/Bogleheads/</link>
+      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-reddit-bogleheads-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:36 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Dedicated to Jack Bogle low-cost passive index investment philosophy, three-fund portfolios, and disciplined buy-and-hold wealth accumulation.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/personalfinance - Wealth Building &amp; Budgeting (Reddit)</title>
       <link>https://www.reddit.com/r/personalfinance/</link>
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-reddit-personalfinance-2026-11-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20261021-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:00:39 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Web Developers Network (Telegram)</title>
-      <link>https://t.me/webdev_hub</link>
-      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-telegram-20261020-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:00:44 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Public channel providing updates on frontend, backend, browser standards, and dev tooling.</description>
     </item>
   </channel>
 </rss>
