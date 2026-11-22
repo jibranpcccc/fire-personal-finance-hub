@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Wealth Building Hub</title>
     <link>https://fire-personal-finance-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 07:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:07:07 GMT</lastBuildDate>
     <atom:link href="https://fire-personal-finance-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/fatFIRE - High Net Worth Retirement (Reddit)</title>
+      <link>https://www.reddit.com/r/fatFIRE/</link>
+      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-reddit-fatfire-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 09:07:07 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Discussions for high-earning and high-net-worth individuals targeting + portfolios, lifestyle preservation, estate planning, and tax optimization.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/leanfire - Frugal Early Retirement (Reddit)</title>
       <link>https://www.reddit.com/r/leanfire/</link>
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-reddit-leanfire-2026-11-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20261023-1-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 06:00:38 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
-      <link>https://discord.gg/golang</link>
-      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-discord-20261022-1-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:38 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
     </item>
   </channel>
 </rss>
