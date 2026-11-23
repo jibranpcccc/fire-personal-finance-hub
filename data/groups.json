@@ -1,5 +1,24 @@
 [
   {
+    "id": "fire-reddit-fireyfemmes",
+    "title": "r/FIREyFemmes - Women & Non-Binary FIRE Community",
+    "platform": "Reddit",
+    "category": "Women in FIRE",
+    "memberCount": "65,000+ members",
+    "description": "An empowering, supportive space for women and non-binary people focusing on career growth, salary negotiation, and financial autonomy.",
+    "joinUrl": "https://www.reddit.com/r/FIREyFemmes/",
+    "tags": [
+      "fireyfemmes",
+      "women-in-finance",
+      "financial-independence",
+      "career"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "fire-reddit-fatfire",
     "title": "r/fatFIRE - High Net Worth Retirement",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -956,24 +975,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "fire-reddit-fireyfemmes",
-    "title": "r/FIREyFemmes - Women & Non-Binary FIRE Community",
-    "platform": "Reddit",
-    "category": "Women in FIRE",
-    "memberCount": "65,000+ members",
-    "description": "An empowering, supportive space for women and non-binary people focusing on career growth, salary negotiation, and financial autonomy.",
-    "joinUrl": "https://www.reddit.com/r/FIREyFemmes/",
-    "tags": [
-      "fireyfemmes",
-      "women-in-finance",
-      "financial-independence",
-      "career"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "fire-reddit-chubbyfire",

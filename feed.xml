@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Wealth Building Hub</title>
     <link>https://fire-personal-finance-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:42:55 GMT</lastBuildDate>
     <atom:link href="https://fire-personal-finance-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/FIREyFemmes - Women &amp; Non-Binary FIRE Community (Reddit)</title>
+      <link>https://www.reddit.com/r/FIREyFemmes/</link>
+      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-reddit-fireyfemmes-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:42:55 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: An empowering, supportive space for women and non-binary people focusing on career growth, salary negotiation, and financial autonomy.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/fatFIRE - High Net Worth Retirement (Reddit)</title>
       <link>https://www.reddit.com/r/fatFIRE/</link>
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-reddit-fatfire-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-discord-20261024-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:00:36 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
-      <link>https://www.reddit.com/r/typescript/</link>
-      <guid isPermaLink="false">https://fire-personal-finance-hub.vercel.app/#fire-personal-finance-hub-reddit-20261023-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:00:38 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Wealth Building Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
     </item>
   </channel>
 </rss>
